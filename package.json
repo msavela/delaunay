@@ -1,0 +1,19 @@
+{
+	"name": "delaunay",
+	"version": "0.1.0",
+	"description": "Delaunay Triangulation based on Bowyer–Watson algorithm",
+	"author": "Matias Savela <msavela@gmail.com> (http://mati.as)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/msavela/delaunay"
+	},
+	"keywords": [
+		"delaunay",
+		"triangulate",
+		"algorithm",
+		"bowyer",
+		"watson"
+	],
+	"main": "delaunay.js",
+	"license": "MIT"
+}
