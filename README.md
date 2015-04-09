@@ -1,3 +1,5 @@
+![delaunay](https://raw.githubusercontent.com/msavela/delaunay/master/screenshot.png)
+
 # delaunay
 Delaunay Triangulation based on Bowyer–Watson algorithm
 
